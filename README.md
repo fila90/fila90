@@ -1,7 +1,7 @@
 hi
-- :bowtie:	i am @fila90
+- :bowtie:	i am [@fila90](https://github.com/fila90)
 - :computer:	i do JS
-- :seedling: 	i am learning Go
+- :seedling: 	i am inerested in Go
 - :chart_with_upwards_trend:	i am getting better at SQL
 - :e-mail:	ivan.filipovic.fila@gmail.com
 
